@@ -1,4 +1,4 @@
-# StufSve
+# StufSave
 
 A behavior change support system aim to help reduce student's food expense in the Netherlands.
 
